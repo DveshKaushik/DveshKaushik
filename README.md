@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&lines=React+Developer;Frontend+Engineer;Full+Developer;Open+Source+Learner)](https://git.io/typing-svg)
-# Hi 👋, I'm Devesh Kaushik
+# <h1 align="center">Hi 👋, I'm Devesh Kaushik</h1>
+<p align="center">
 
 ### React Developer | Frontend Engineer | Web3 Enthusiast
 
@@ -9,7 +10,7 @@ Frontend Developer with professional experience building responsive web applicat
 ---
 
 ## 🚀 About Me
-
+-   B.Tech Information Technology
 - 💻 React Developer at FirstMiner Solution Tech
 - 🌱 Currently learning Node.js & Full Stack Development
 - 🔗 Interested in Web3 & Smart Contract Frontends
