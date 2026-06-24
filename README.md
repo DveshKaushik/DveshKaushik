@@ -89,4 +89,6 @@ Frontend Developer with professional experience building responsive web applicat
 
 - LinkedIn: https://linkedin.com/in/dveshkaushik
 - Email: dveshkaushik@email.com
+  
 
+![Profile Views](https://komarev.com/ghpvc/?username=DveshKaushik)
