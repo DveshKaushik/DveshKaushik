@@ -68,7 +68,7 @@ Frontend Developer with professional experience building responsive web applicat
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DveshKaushik&show_icons=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DveshKaushik&layout=compact)
 
@@ -79,7 +79,6 @@ Frontend Developer with professional experience building responsive web applicat
 - React.js
 - Node.js
 - PostgreSQL
-- MySql
 - System Design
 - Full Stack Development
 
